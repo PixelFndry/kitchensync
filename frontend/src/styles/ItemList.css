@@ -1,0 +1,14 @@
+/* src/styles/ItemList.css */
+
+.item-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .item {
+    border: 1px solid #ddd;
+    margin: 0.5rem;
+    padding: 1rem;
+    flex: 1 0 21%;
+  }
+  
